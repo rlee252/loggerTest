@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.887 s <<< FAILURE! - in TestSuite
+loggigty.MyTestNGClass.testExample  Time elapsed: 1.211 s  <<< FAILURE!
+java.lang.AssertionError: Test failed because condition was not met.
+	at loggigty.MyTestNGClass.testExample(MyTestNGClass.java:59)
+
